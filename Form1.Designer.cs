@@ -86,9 +86,9 @@ namespace WinCipher
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(12, 281);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(41, 15);
+            this.label4.Size = new System.Drawing.Size(141, 15);
             this.label4.TabIndex = 12;
-            this.label4.Text = "Шифр";
+            this.label4.Text = "Шифр (ввиде символов)";
             // 
             // textBox04
             // 
