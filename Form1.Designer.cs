@@ -76,6 +76,7 @@ namespace WinCipher
             this.textBox05.Location = new System.Drawing.Point(12, 393);
             this.textBox05.Multiline = true;
             this.textBox05.Name = "textBox05";
+            this.textBox05.ReadOnly = true;
             this.textBox05.Size = new System.Drawing.Size(700, 70);
             this.textBox05.TabIndex = 5;
             this.textBox05.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
@@ -94,6 +95,7 @@ namespace WinCipher
             this.textBox04.Location = new System.Drawing.Point(13, 299);
             this.textBox04.Multiline = true;
             this.textBox04.Name = "textBox04";
+            this.textBox04.ReadOnly = true;
             this.textBox04.Size = new System.Drawing.Size(700, 70);
             this.textBox04.TabIndex = 4;
             // 
@@ -140,6 +142,7 @@ namespace WinCipher
             this.textBox03.Location = new System.Drawing.Point(12, 208);
             this.textBox03.Multiline = true;
             this.textBox03.Name = "textBox03";
+            this.textBox03.ReadOnly = true;
             this.textBox03.Size = new System.Drawing.Size(700, 70);
             this.textBox03.TabIndex = 3;
             this.textBox03.TextChanged += new System.EventHandler(this.textBox03_TextChanged);
